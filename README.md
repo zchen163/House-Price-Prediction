@@ -1,5 +1,7 @@
 # CSE6242_Project: House Price Prediction in Los Angeles
 
+* Project is done in collaboration with Shengchen Liu, Kai Ni, Jinjun Liu, Zheng Kuang, Shaojuan Liao. Complete information can be found in GitHub at https://github.com/cse6242-team110-spring2019.
+
 ## DESCRIPTION
 This project aims to predict house price in Los Angeles and help house-buyers buy a perfect house in Los Angeles. We collected house-intrinsic data such as building year, square feet, number of rooms from Kaggle and environmental data including population, traffic, school, hospital etc. from online resources. We performed house value prediction using various machine learning models including Linear Regression, Ridge and Lasso Regression, Support Vector Machine, Random Forest and Ensemble learning. We demonstrated that incorporating environmental information improved the prediction performance. House information and prediction results are visualized in the form of an interactive map.
 
