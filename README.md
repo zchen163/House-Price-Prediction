@@ -1,4 +1,4 @@
-# CSE6242_Project: House Price Prediction in Los Angeles
+# House Price Prediction in Los Angeles
 
 * Project is done in collaboration with Shengchen Liu, Kai Ni, Jinjun Liu, Zheng Kuang, Shaojuan Liao. Complete information can be found in GitHub at https://github.com/cse6242-team110-spring2019.
 
